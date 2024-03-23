@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+#nav a.active {
+    color: #76a7e7;
+}
