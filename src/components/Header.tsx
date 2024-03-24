@@ -10,7 +10,7 @@ const Header = () => {
                 <ul className={'flex items-center gap-5'}>
                     <li><NavLink to={'/'} className={'transition-colors hover:text-[#76a7e7]'}>Главная</NavLink></li>
                     <li><NavLink to={'/'} className={'transition-colors hover:text-[#76a7e7]'}>Услуги</NavLink></li>
-                    <li><NavLink to={'/'} className={'transition-colors hover:text-[#76a7e7]'}>Контакты</NavLink></li>
+                    <li><NavLink to={'/contact'} className={'transition-colors hover:text-[#76a7e7]'}>Консультация</NavLink></li>
                     <li><NavLink to={'/'} className={'transition-colors hover:text-[#76a7e7]'}>О нас</NavLink></li>
                 </ul>
             </nav>

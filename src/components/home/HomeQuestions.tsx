@@ -38,7 +38,7 @@ const HomeQuestions = () => {
             <h1 className={'text-5xl font-bold mb-10'}>Частые вопросы</h1>
             <Accordion>
                 {
-                    arrWhy.map((item,idx) => (
+                    arrWhy.map((item, idx) => (
                         <AccordionTab key={idx} header={
                             <div className={'p-5 shadow-md mb-5'}>
                                 <h1 className={'font-bold text-2xl'}>{item.title}</h1>
