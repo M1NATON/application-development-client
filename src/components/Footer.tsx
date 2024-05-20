@@ -1,5 +1,8 @@
 
 const Footer = () => {
+
+
+
     return (
         <div className={'bg-[#1166cb] text-white w-full py-10'}>
             <div className="container flex justify-around">

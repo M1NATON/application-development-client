@@ -16,5 +16,3 @@ const HomePage = () => {
 };
 
 export default HomePage;
-
-//bg-[url('/assets/home/home-header-bg.svg')] bg-right bg-cover  w-full h-[70vh]
